@@ -1,0 +1,36 @@
+Python Opdracht: Toegangskaartje
+
+Maak in Python een eenvoudig systeem om de prijs van toegangskaartjes voor een pretpark te 
+berekenen. Uitgangspunt is dat de prijzen afhankelijk zijn van de leeftijden van de bezoekers. 
+Het hoeft niet grafisch maar dat mag uiteraard wel.
+
+De volgende gegevens zijn van toepassing:
+
+- Kinderen jonger dan 4 jaar zijn gratis
+
+- De entree voor bezoekers in de leeftijd van 4 t/m 18 jaar is 5 euro
+
+- De entree voor bezoekers in de leeftijd van 19 t/m 65 jaar is 10 euro
+
+- De entree voor bezoekers in de leeftijd van 65 jaar en ouder is 8 euro
+
+- Kom je met een groep van 5 mensen of meer, dan krijg je 5 euro korting op de totaalprijs.
+
+Het programma moet eerst gaan vragen met hoeveel personen je kaartjes wilt gaan kopen. 
+Daarna moet hij vragen per kaartje wat de leeftijd van elke bezoeker is.
+Als je 999 invult moet het programma stoppen. En anders moet je na elke groep bezoekers
+weer een nieuwe groep (of een persoon) kunnen verwelkomen.
+
+Na invoer van elke regel moet de prijs voor die persoon worden getoond, plus een teller die het 
+totaalbedrag aangeeft.
+
+Als de laatste van de groep is ingevuld, krijg je het totaalbedrag te zien, inclusief eventuele kortingen.
+
+Zet vooral ook duidelijke "remarks" in de code, zodat duidelijk is hoe het programma werkt. 
+
+Het is wel de bedoeling dat je e.e.a. zelf bedenkt. Even ideeën opdoen vanuit je boek of via Google 
+mag uiteraard wel, maar je moet het wel zelf zoveel mogelijk bedenken. 
+
+Laat het programma er ook "netjes" uitzien, dus met duidelijk teksten. 
+
+Maak ook eerst even een eenvoudig blokschema/schetsje hoe het programmaverloop zal moeten worden. 
