@@ -29,7 +29,7 @@ Start by clicking on the “Klik hier” button and enter the size of the group 
 
 Then enter the age of the first group member in the input field and click on "Voer In". Then do the same for all other group members. If an entered age is incorrect, "Herstel" can be pressed to restore the last entered age.
 
-When the last age is entered, press “Bevestig” to get an overview of the order. If the entered data is not correct you can click on “Opnieuw” to re-enter the order. If everything is correct, press order to print the ticket.
+When the last age is entered, press “Bevestig” to get an overview of the order. If the entered data is not correct you can click on “Opnieuw” to re-enter the order. If everything is correct, press "Bestellen" to print the ticket.
 
 
 ## Preview
